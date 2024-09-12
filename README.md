@@ -36,7 +36,7 @@ Bot aşağıdaki slash komutlarını destekler:
 
 ## Destek
 
-Herhangi bir sorunuz veya öneriniz varsa, lütfen bir issue açın veya doğrudan benimle iletişime geçin.
+Herhangi bir sorunuz veya öneriniz varsa, doğrudan benimle iletişime geçin.
 
 [![Discord Profilim](https://img.shields.io/badge/Discord-Profilim-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/657241749579759616)
 
