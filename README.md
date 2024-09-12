@@ -42,7 +42,7 @@ Herhangi bir sorunuz veya öneriniz varsa, lütfen bir issue açın veya doğrud
 
 ## Topluluk
 
-Geliştirici topluluğumuza katılın ve diğer geliştiricilerle etkileşimde bulunun!
+Discord sunucumuzdan diğer altyapılarımıza ulaşabilirsiniz!
 
 [![Discord Banner](https://api.weblutions.com/discord/invite/msidev/)](https://discord.gg/msidev)
 
